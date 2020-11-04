@@ -11,3 +11,12 @@
 |1|驚訊|https://www.youtube.com/channel/UCU5MOgUdLqitxKZRZy9vnnw/videos|
 |2|頭條動新聞|https://hk.appledaily.com/feature/headliner/%E9%A0%AD%E6%A2%9D%E5%8B%95%E6%96%B0%E8%81%9E/|
 |||
+
+|No|Channel||
+|:-|:-|:-|
+|1|乳透社-小反旗|https://www.youtube.com/channel/UCr9pkYrfp6QumE11R9A9gqQ/videos|
+|2|乳透社-小池塘|https://www.youtube.com/channel/UCjGMgaDmTJtyWl4QCbHJlig/videos|
+|3|新蛤社|https://www.youtube.com/channel/UC-7ePWJiC5sX0ul434Wj0uQ/videos|
+|4|梅川伊芙|https://www.youtube.com/channel/UCHrkvfuollkwjgGWAga8LLA/videos|
+|5|高登音樂台|https://www.youtube.com/channel/UC-PbFMH4uhmqO71Gyxr5A-g/videos|
+|6|
