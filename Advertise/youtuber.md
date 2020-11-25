@@ -9,6 +9,7 @@
 |8|達明一派|
 |9|盧冠廷Lowell Lo|快樂老實人
 
+https://www.google.com/amp/s/fuckyeahchinesefashion.tumblr.com/post/623917699312058368/%25E6%25B8%2585-qing-cctv-by-%25E6%2588%25B4%25E8%25BF%25AA-daidi319/amp
 # 時評
 |Channel|||Website|
 |:-|:-|:-|:-|
