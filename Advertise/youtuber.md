@@ -5,7 +5,8 @@
 |2|藍奕邦|六月|
 |3|方皓玟|人話|https://www.youtube.com/watch?v=ENB0BeZx4yw&app=desktop|
 |6|DGX||https://www.youtube.com/channel/UCeF2XSNagaNH_BenCfkymCg/videos|
-|
+|7|HOCC何韻詩||
+|8|達明一派|
 
 # 時評
 |Channel|||Website|
