@@ -19,4 +19,5 @@
 |3|新蛤社|https://www.youtube.com/channel/UC-7ePWJiC5sX0ul434Wj0uQ/videos|
 |4|梅川伊芙|https://www.youtube.com/channel/UCHrkvfuollkwjgGWAga8LLA/videos|
 |5|高登音樂台|https://www.youtube.com/channel/UC-PbFMH4uhmqO71Gyxr5A-g/videos|
-|6|
+|6|牆國蛙蛤蛤|https://www.youtube.com/c/%E6%80%BB%E5%8A%A0%E9%80%9F%E5%B8%88%E5%BC%9F-%E5%A2%99%E5%9B%BD%E8%9B%99%E8%9B%A4%E8%9B%A4/videos|
+|7|晴天林|https://www.youtube.com/user/whiteboard250/videos|
