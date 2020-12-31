@@ -23,7 +23,7 @@
 # [發佈形式](/Release)
 - ## [品葱月刊](/Release/品葱月刊)
   - [Year 2020](https://github.com/PincongGroup/Project-PincongMediaPlatform/releases/tag/Pincong)
-  - [Year 2021](/Release/品葱月刊/2021.md)
+  - [Year 2021]()
 - ## Podcast
 - ## Video
 
