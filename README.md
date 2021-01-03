@@ -4,6 +4,7 @@
 **品葱月刊**
 - [Year 2020](https://github.com/PincongGroup/Project-PincongMediaPlatform/releases/tag/Pincong)
 - [Year 2021]()
+- Year 2022
     
 ***
 
