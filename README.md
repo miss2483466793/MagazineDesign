@@ -5,7 +5,10 @@
 - [Year 2020](https://github.com/PincongGroup/Project-PincongMediaPlatform/releases/tag/Pincong)
 - [Year 2021]()
 - Year 2022
-    
+
+**Podcast**
+**Video**
+
 ***
 
 - ## [發佈專欄](/Release)
@@ -22,14 +25,6 @@
   - 政治光譜
   
 # 合作項目
-
-***
-
-# 發佈形式
-- ## Podcast
-- ## Video
-
-***
 
 # Future Plan
 - ## Website
