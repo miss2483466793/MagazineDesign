@@ -19,7 +19,10 @@
   - 時事速報
   
 - 投稿轉載
+tw
 https://telegra.ph/%E8%BD%89%E8%BC%89%E9%AE%AE%E7%B4%85by%E4%B8%80%E7%9B%96%E5%9C%9F-01-12
+cn
+https://telegra.ph/%E8%BD%AC%E8%BD%BD%E9%B2%9C%E7%BA%A2by%E4%B8%80%E7%9B%96%E5%9C%9F-01-13
 - 合作專欄
 
 ***
