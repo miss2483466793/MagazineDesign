@@ -7,8 +7,10 @@
 # News
 |Chinese|||
 |:-|:-|:-|
-|1|rthk|https://www.rthk.hk/|
-|2|radio free asia|https://www.rfa.org/english/|
+|1|眾新聞|https://www.hkcnews.com/|
+|2|傳真社|https://www.factwire.org/|
+|3|radio free asia|https://www.rfa.org/english/|
+
 
 |English|||
 |:-|:-|:-|
