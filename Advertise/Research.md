@@ -8,8 +8,7 @@
 |Chinese|||
 |:-|:-|:-|
 |1|rthk|https://www.rthk.hk/|
-|2|apple daily|https://hk.appledaily.com/|
-|3|radio free asia|https://www.rfa.org/english/|
+|2|radio free asia|https://www.rfa.org/english/|
 
 |English|||
 |:-|:-|:-|
