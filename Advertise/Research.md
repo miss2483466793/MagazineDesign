@@ -15,6 +15,7 @@
 |English|||
 |:-|:-|:-|
 |1|reuters|https://www.reuters.com/news/world|
+|2|China Digital Times|https://chinadigitaltimes.net|
 
 # Research
 |Chinese|||
